@@ -311,7 +311,7 @@ body {
 <body>
 
     <audio class="song" loop autoplay>
-        <source src="HAPPY BIRTHDAY INSTRUMENTAL.mp3">
+        <source src="/HAPPY BIRTHDAY INSTRUMENTAL.mp3">
         </source>
         Your browser isn't invited for super fun audio time.
     </audio>
@@ -358,7 +358,6 @@ body {
         </div>
 
         <div class="six">
-            <img src="img/hat.svg" alt="hat" class="hat" />
             <div class="wish">
                 <h3 class="wish-hbd">Happy Birthday!</h3>
                 <h5 id="wishText">Semoga Kebahagiaan selalu menyertaimu:)</h5>
