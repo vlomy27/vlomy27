@@ -311,7 +311,7 @@ body {
 <body>
 
     <audio class="song" loop autoplay>
-        <source src="/HAPPY BIRTHDAY INSTRUMENTAL.mp3">
+        <source src="HAPPY BIRTHDAY INSTRUMENTAL.mp3">
         </source>
         Your browser isn't invited for super fun audio time.
     </audio>
